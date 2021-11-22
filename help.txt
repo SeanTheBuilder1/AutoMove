@@ -1,0 +1,12 @@
+-destination INDEX ...
+-des INDEX ...
+-d INDEX ...
+
+-overwrite
+-o
+
+-keep
+-k
+
+-addpath INDEX PATH
+-delpath INDEX
